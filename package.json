@@ -1,0 +1,28 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shafrai/website.git"
+  },
+  "author": "Shafrai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shafrai/website/issues"
+  },
+  "homepage": "https://github.com/Shafrai/website#readme",
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "consolidate": "0.14.0",
+    "express": "4.14.0",
+    "gulp": "3.9.1",
+    "nunjucks": "2.4.1",
+    "pg": "6.0.4"
+  }
+}
